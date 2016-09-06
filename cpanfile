@@ -1,0 +1,9 @@
+requires 'Moose';
+requires 'Amazon::DynamoDB';
+requires 'Method::Signatures';
+requires 'Data::Dump';
+requires 'JSON::XS';
+requires 'LWP::Protocol::https';
+requires 'MooseX::Log::Log4perl';
+requires 'MooseX::Storage';
+requires 'MooseX::Role::WithOverloading';
